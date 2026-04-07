@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-mistralai
+huggingface-hub
+sentence-transformers
+pymupdf
+chromadb
+python-dotenv
+reportlab
